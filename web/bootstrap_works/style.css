@@ -17,3 +17,9 @@ footer.footer {
   border-left: 5px solid lightblue;
   margin-bottom: 20px;
 }
+
+.flex-test {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
